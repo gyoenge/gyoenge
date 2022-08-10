@@ -5,7 +5,7 @@
 ### <ARTIFI Deeplearning study (교내 자율동아리)>
  * period : 2020 
  * contents : 딥러닝 스터디, 교내 ai 강연 수강, 자율주행 오픈소스 코드(python+openCV) 분석
- * go to 📃[Notion]() (조금 더 정리하여 링크 걸겠습니다)(🛠정리중)
+ * go to 📃Notion (조금 더 정리하여 링크 걸겠습니다)
 
 ### <IEC project (교내 동아리)>
  * period : 2021 summer
