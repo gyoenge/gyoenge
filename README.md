@@ -18,7 +18,8 @@
 
 ### <goorm AI 프로젝트 반 (60일)>
  * period : 2022 summer
- * contents : 파이썬 기본 문법 정리, 데이터 분석, 머신러닝 basic, 딥러닝 basic, 캐글 실습, 팀프로젝트 (1,2차), Object detection 스터디 
+ * contents : 이론 - 파이썬 문법 복습 및 정리, 데이터 분석, 머신러닝 basic, 딥러닝 basic
+              실습 - 캐글 실습, 팀프로젝트 (1,2차), Object detection 스터디 
  * go to [repository]() (아직 존재하지 X, 만들겠습니다.)
 
 ### <Infoteam web frontend (교내 자치회)> 
