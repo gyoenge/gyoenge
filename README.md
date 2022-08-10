@@ -8,7 +8,7 @@
  * go to [repository]() (아직 존재하지 X, 만들겠습니다.)
 
 ### <IEC project (교내 동아리)>
- * period : 2021
+ * period : 2021 summer
  * contents : 사회적 거리두기를 위한 사람밀집여부 판별 (python+openCV+cvlib)
  * go to [repository]() (아직 존재하지 X, 만들겠습니다.)
 
