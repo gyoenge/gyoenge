@@ -10,7 +10,7 @@
 ### <IEC project (교내 동아리)>
  * period : 2021 summer
  * contents : 사회적 거리두기를 위한 사람밀집여부 판별 (python+openCV+cvlib)
- * go to [repository](https://github.com/gyoenge/IEC_ODproject_2021)
+ * go to [repository](https://github.com/gyoenge/IEC_ODproject_2021) (🛠정리중)
 
 <hr>
 
@@ -26,12 +26,12 @@
 ### <Infoteam web frontend (교내 자치회)> 
  * period : 2022 march ~
  * contents : html/CSS/JS 문법 정리, React 공부, 실습 프로젝트 
- * go to [repository](https://github.com/gyoenge/GIST_Infoteam_2022) 
+ * go to [repository](https://github.com/gyoenge/GIST_Infoteam_2022) (🛠정리중)
 
 ### <WING AI study (교내 동아리)> 
  * period : 2022 march ~ 
  * contents : 
- * go to [Notion](https://wistful-order-0cd.notion.site/WING-AI-22fc2ba882c54dc7b059be174924eec1) 
+ * go to [Notion](https://wistful-order-0cd.notion.site/WING-AI-22fc2ba882c54dc7b059be174924eec1) (🛠정리중)
 <br/>
 
 <!--
