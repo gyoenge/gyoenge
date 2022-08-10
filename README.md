@@ -1,17 +1,17 @@
-## Gyoeng's 흔적 👋
+# Gyoeng's record
 
-### <goorm AI 프로젝트 반 (60일)>
+## <goorm AI 프로젝트 반 (60일)>
 
 #### 1. 파이썬 기본 문법 정리
-* 내용 :  
+* 내용 : 
 * 해당 저장소 [이동하기]()
 
 #### 2. 데이터 분석
-* 내용 :  
+* 내용 : 
 * 해당 저장소 [이동하기]()
 
 #### 3. 머신러닝 basic
-* 내용 :  
+* 내용 : 
 * 해당 저장소 [이동하기]()
 
 #### 4. 딥러닝 basic
@@ -19,14 +19,18 @@
 * 해당 저장소 [이동하기]()
 
 #### 5. 캐글 실습
-* 내용 :  
+* 내용 : 
+* 해당 저장소 [이동하기]()
+
+#### 6. 팀프로젝트 (1,2차)
+* 내용 : 
 * 해당 저장소 [이동하기]()
 
 #### (추가) Object detection 스터디 
 * 내용 :  
 * 해당 저장소 [이동하기]()
 
-### <> 
+## <> 
 
 <!--
 **gyoenge/gyoenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
