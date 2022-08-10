@@ -10,7 +10,7 @@
 ### <IEC project (교내 동아리)>
  * period : 2021 summer
  * contents : 사회적 거리두기를 위한 사람밀집여부 판별 (python+openCV+cvlib)
- * go to [repository](https://github.com/gyoenge/IEC_ODproject_2021) 
+ * go to [repository](https://github.com/gyoenge/IEC_ODproject_2021)
 
 <hr>
 
@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/gyoenge/IEC_ODproject_2021"> <img src="http://img.shields.io/badge/-github repository-181717?style=flat&logo=GitHub&link=https://github.com/gyoenge/IEC_ODproject_2021" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 -->
