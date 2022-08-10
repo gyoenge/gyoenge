@@ -1,5 +1,19 @@
 # Gyoeng's record 
 
+## 2020~2021 (고등학교 2~3학년)
+
+### <ARTIFI Deeplearning study (교내 자율동아리)>
+ * period : 2020 
+ * contents : 딥러닝 스터디, 교내 ai 강연 수강, 자율주행 오픈소스 코드(python+openCV) 분석
+ * go to [repository]() (아직 존재하지 X, 만들겠습니다.)
+
+### <IEC project (교내 동아리)>
+ * period : 2021
+ * contents : 사회적 거리두기를 위한 사람밀집여부 판별 (python+openCV+cvlib)
+ * go to [repository]() (아직 존재하지 X, 만들겠습니다.)
+
+<hr>
+
 ## ✨ 2022 ✨
 
 ### <goorm AI 프로젝트 반 (60일)>
