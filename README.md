@@ -21,7 +21,7 @@
  * contents : 이론 - 파이썬 문법 복습 및 정리, 데이터 분석, 머신러닝 basic, 딥러닝 basic
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;실습 - 캐글 실습, 팀프로젝트 (1,2차)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;추가 스터디 활동 - Object detection 스터디 
- * go to 📁[repository](https://github.com/gyoenge/goorm_AIclass_2022summer) 
+ * go to 📁[repository](https://github.com/gyoenge/goorm_AIclass_2022summer) (🛠정리중)
 
 ### <Infoteam web frontend (교내 자치회)> 
  * period : 2022 march ~
