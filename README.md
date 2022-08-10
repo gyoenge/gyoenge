@@ -1,8 +1,6 @@
 # Gyoeng's record
-<hr/>
 
 ## ✨ 2022 ✨
-<br/>
 
 ### <goorm AI 프로젝트 반 (60일)>
  * period : 2022 summer
