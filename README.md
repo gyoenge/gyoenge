@@ -25,7 +25,7 @@
 
 ### <Infoteam web frontend (교내 자치회)> 
  * period : 2022 march ~
- * contents : html/CSS/Java 문법 정리, React 공부, 실습 프로젝트 
+ * contents : html/CSS/JS 문법 정리, React 공부, 실습 프로젝트 
  * go to [repository]() (아직 존재하지 X, 만들겠습니다.)
 
 ### <WING AI study (교내 동아리)> 
