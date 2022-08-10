@@ -1,6 +1,6 @@
 # Gyoeng's record 
 
-## 2020~2021 (고등학교 2~3학년)
+## 🎇 2020~2021 (고등학교 2~3학년) 🎇
 
 ### <ARTIFI Deeplearning study (교내 자율동아리)>
  * period : 2020 
