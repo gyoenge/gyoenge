@@ -1,4 +1,4 @@
-# Gyoeng's record 👣
+# Gyoeng's record 
 
 ## ✨ 2022 ✨
 
