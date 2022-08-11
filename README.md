@@ -1,6 +1,6 @@
 # Gyoeng's record
 
-## 🎇 2020-2021 (high.2-3) 🎇
+## 2020-2021 (high.2-3) 
 
 ### <ARTIFI Deeplearning study (교내 자율동아리)>
  * period : 2020 
