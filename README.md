@@ -1,6 +1,6 @@
-# Gyoeng's Dev record
+# ✨ Gyoeng's Dev record ✨
 
-## ✨ 2022 (univ.1) ✨
+## 2022 (univ.1)
 
 ### < Goorm AI edu - project class > 
  * period : 2022 summer Jul-Aug (60days) 
