@@ -35,7 +35,7 @@
 ### < WING AI study > 
  * period : 2022 march ~ 
  * belong : 교내 동아리 (정보동아리 WING 내의 AI 분과에서 진행)
- * contents : 정해진 커리큘럼 § ai개요 → 선형회귀(+로지스틱회귀.svm) → 결정트리(+앙상블.랜덤포레스트) → (+군집화) → 인공신경망개요 → DNN분류 → CNN → Autoencoder(+PCA.SparseAutoencoder) → RNN → LMs → GAN → 강화학습 → ... § 으로 ML/DL 스터디 진행. 
+ * contents : 정해진 커리큘럼 ||§ ai개요 → 선형회귀(+로지스틱회귀.svm) → 결정트리(+앙상블.랜덤포레스트) → (+군집화) → 인공신경망개요 → DNN분류 → CNN → Autoencoder(+PCA.SparseAutoencoder) → RNN → LMs → GAN → 강화학습 → ... §|| 으로 ML/DL 스터디 진행. 
  * go to 📃[Notion](https://wistful-order-0cd.notion.site/WING-AI-22fc2ba882c54dc7b059be174924eec1) (🛠정리중)
 <br/>
 
