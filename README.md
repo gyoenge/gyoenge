@@ -18,7 +18,7 @@
 
 ## ✨ 2022 (univ.1) ✨
 
-### <goorm AI 프로젝트 반>
+### < goorm AI 프로젝트 반 >
  * period : 2022 summer Jul-Aug (60days) 
  * belong : 광주 ICT 이노베이션 스퀘어
  * contents : 이론 - 파이썬 문법 복습 및 정리, 데이터 분석, 머신러닝 basic, 딥러닝 basic
@@ -26,13 +26,13 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;추가 스터디 활동 - Object detection 스터디 
  * go to 📁[repository](https://github.com/gyoenge/goorm_AIclass_2022summer) (🛠정리중)
 
-### <Infoteam web frontend> 
+### < Infoteam web frontend > 
  * period : 2022 march ~
  * belong : 교내 자치회
  * contents : html/CSS/JS 문법 정리, React 공부, 실습 프로젝트 
  * go to 📁[repository](https://github.com/gyoenge/GIST_Infoteam_2022) (🛠정리중)
 
-### <WING AI study> 
+### < WING AI study > 
  * period : 2022 march ~ 
  * belong : 교내 동아리 (정보동아리 WING 내의 AI 분과에서 진행)
  * contents : 
