@@ -34,13 +34,13 @@
 
 ### < ARTIFI DeepLearning study >
  * period : 2020 
- * belong : 교내 자율동아리
+ * belong : dgis 자율동아리
  * contents : 딥러닝 스터디, 교내 ai 강연 수강, 자율주행 오픈소스 코드(python+openCV) 분석
  * go to 📃Notion (따로 내용을 정리해놓지 않았던 활동이라, 추가적으로 정리하여 링크 걸겠습니다)
 
 ### < IEC CV project >
  * period : 2021 summer
- * belong : 교내 동아리
+ * belong : dgis 동아리
  * contents : 사회적 거리두기를 위한 사람밀집여부 판별 (python+openCV+cvlib)
  * go to 📁[repository](https://github.com/gyoenge/IEC_ODproject_2021) (🛠정리중)
 
