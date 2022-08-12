@@ -30,13 +30,7 @@
 
 <hr>
 
-## 2020-2021 (high.2-3) 
-
-### < ARTIFI DeepLearning study >
- * period : 2020 
- * belong : dg1s 자율동아리
- * contents : 딥러닝 스터디, 교내 ai 강연 수강, 자율주행 오픈소스 코드(python+openCV) 분석
- * go to 📃Notion (따로 내용을 정리해놓지 않았던 활동이라, 추가적으로 정리하여 링크 걸겠습니다)
+## 2021 (high.3) 
 
 ### < IEC CV project >
  * period : 2021 summer
@@ -44,7 +38,17 @@
  * contents : 사회적 거리두기를 위한 사람밀집여부 판별 (python+openCV+cvlib)
  * go to 📁[repository](https://github.com/gyoenge/IEC_ODproject_2021) (🛠정리중)
 
-<br/>
+<hr>
+
+## 2020 (high.2) 
+
+### < ARTIFI DeepLearning study >
+ * period : 2020 
+ * belong : dg1s 자율동아리
+ * contents : 딥러닝 스터디, 교내 ai 강연 수강, 자율주행 오픈소스 코드(python+openCV) 분석
+ * go to 📃Notion (따로 내용을 정리해놓지 않았던 활동이라, 추가적으로 정리하여 링크 걸겠습니다)
+
+
 
 <!--
 **gyoenge/gyoenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
