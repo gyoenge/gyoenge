@@ -26,7 +26,7 @@
  * period : 2022 summer Aug-Sep
  * belong : GIST AI대학원의 AI행사(체험/해커톤)
  * contents : AWS Deepracer 행사 조교활동 일지, 강화학습 이론 공부, Deepracer 모델 보상함수 코드 수정
- * go to 📃Notion 
+ * go to 📃Notion (활동 진행중)
 
 <hr>
 
