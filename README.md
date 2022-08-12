@@ -2,7 +2,7 @@
 
 ## 2020-2021 (high.2-3) 
 
-### < ARTIFI Deeplearning study >
+### < ARTIFI DeepLearning study >
  * period : 2020 
  * belong : 교내 자율동아리
  * contents : 딥러닝 스터디, 교내 ai 강연 수강, 자율주행 오픈소스 코드(python+openCV) 분석
