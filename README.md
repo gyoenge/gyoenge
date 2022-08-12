@@ -18,7 +18,7 @@
 
 ## ✨ 2022 (univ.1) ✨
 
-### < goorm AI 프로젝트 반 >
+### < goorm AI edu - project class >
  * period : 2022 summer Jul-Aug (60days) 
  * belong : 광주 ICT 이노베이션 스퀘어
  * contents : 이론 - 파이썬 문법 복습 및 정리, 데이터 분석, 머신러닝 basic, 딥러닝 basic
