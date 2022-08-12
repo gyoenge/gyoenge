@@ -6,7 +6,7 @@
  * period : 2022 summer Jul-Aug (60days) 
  * belong : 광주 ICT 이노베이션 스퀘어
  * contents : 이론 - 파이썬 문법 복습 및 정리, 데이터 분석, 머신러닝 basic, 딥러닝 basic
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;실습 - 캐글 실습, 팀프로젝트 (1,2차)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;실습 - kaggle실습, DACON실습+flask, 팀프로젝트(1,2차)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;추가 스터디 활동 - Object detection 스터디 
  * go to 📁[repository](https://github.com/gyoenge/goorm_AIclass_2022summer) (🛠정리중)
 
