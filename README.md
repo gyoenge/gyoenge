@@ -34,7 +34,7 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
 OpenCV · Image Processing · Medical Data Processing (HDF5, AnnData, Parquet)
 
 **Others**  
-Linux · Docker · Git/GitHub · etc 
+Linux · Docker · Git/GitHub 
 
 <!-- 
 ---
