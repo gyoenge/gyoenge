@@ -52,4 +52,4 @@ Linux · Docker · Git/GitHub
 
 #### Interests
 
-Computer Vision · Medical AI · Multimodal Learning · Explainable AI (Radiomics)
+Computer Vision · Medical AI · Multimodal Learning · Explainable AI 
