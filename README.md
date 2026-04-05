@@ -18,7 +18,7 @@ GIST AI-MED Lab 학부연구생으로 활동하며,
 **Pathology 이미지로부터 유전자 발현을 공간적으로 예측하는 task**를 수행하고 있습니다.   
 --> 
 
-#### Interests
+#### Research Interests
 
 Computer Vision · Medical AI · Multimodal Learning · Explainable AI 
 
