@@ -8,7 +8,7 @@ particularly on **extracting meaningful insights from medical image data**.
 As an undergraduate researcher at the GIST AI-MED Lab,  
 I am working on the task of **spatially predicting gene expression from pathology images**.
 
-I enjoy deeply exploring problems and understanding them at a fundamental level! 
+I enjoy deeply exploring problems and understanding them at a fundamental level.
 
 <!--
 AI / Computer Vision 분야에 관심을 가지고 있습니다.  
