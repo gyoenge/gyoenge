@@ -1,5 +1,7 @@
 ### Huigyeong Son
 
+> Currently a GIST Undergraduate Student (2022–Present)
+
 I focus on AI and Computer Vision,  
 particularly on **extracting meaningful insights from medical image data**.
 
