@@ -1,4 +1,4 @@
-### Huigyeong Son
+### Huigyoeng Son
 
 > Currently a GIST Undergraduate Student (2022–Present)
 
