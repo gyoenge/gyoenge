@@ -31,7 +31,8 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 **CV / Data**  
-OpenCV · Image Processing · Medical Data Processing (HDF5, AnnData, Parquet)
+OpenCV · Image Processing · Medical Data Processing 
+<!-- OpenCV · Image Processing · Medical Data Processing (HDF5, AnnData, Parquet) -->
 
 **Others**  
 Linux · Docker · Git/GitHub 
