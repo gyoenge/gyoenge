@@ -1,7 +1,7 @@
 ### Huigyeong Son
 
-I am interested in AI and Computer Vision,  
-with a particular focus on **extracting meaningful insights from medical image data**.
+I focus on AI and Computer Vision,  
+particularly on **extracting meaningful insights from medical image data**.
 
 As an undergraduate researcher at the GIST AI-MED Lab,  
 I am working on the task of **spatially predicting gene expression from pathology images**.
