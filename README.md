@@ -3,7 +3,7 @@
 > Currently a GIST Undergraduate Student (2022–Present)
 
 I focus on AI and Computer Vision,  
-particularly on **extracting meaningful insights from medical image data**.
+now particularly on **extracting meaningful insights from medical image data**.
 
 As an undergraduate researcher at the GIST AI-MED Lab,  
 I am working on the task of **spatially predicting gene expression from pathology images**.
