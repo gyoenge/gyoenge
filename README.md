@@ -20,7 +20,7 @@ GIST AI-MED Lab 학부연구생으로 활동하며,
 
 #### Research Interests
 
-Computer Vision · Medical AI · Multimodal · Representation Learning · Foundation Model 
+Computer Vision · Medical AI · Multimodal · Representation Learning · Foundation Model Application
 
 #### Tech Stack
 
