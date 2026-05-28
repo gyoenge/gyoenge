@@ -8,7 +8,7 @@ now particularly on **extracting meaningful insights from medical image data**.
 As an undergraduate researcher at the GIST AI-MED Lab,  
 I am working on the task of **spatially predicting gene expression from pathology images**.
 
-More broadly, I am interested in **multimodal learning and Vision-Language Models (VLMs)**,   
+More broadly, I am interested in **multimodal learning and Vision-Language Models**,   
 especially in how different modalities can be aligned.
 
 I enjoy deeply exploring problems and understanding them at a fundamental level.
