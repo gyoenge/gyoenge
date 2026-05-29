@@ -10,16 +10,8 @@ I am working on the task of **spatially predicting gene expression from patholog
 
 More broadly, I am interested in **multimodal learning and Vision-Language Models**,   
 especially in understanding how different modalities can be effectively aligned and integrated.
-
+ 
 I enjoy deeply exploring problems and understanding them at a fundamental level.
-
-<!--
-AI / Computer Vision 분야에 관심을 가지고 있습니다.  
-특히 **Medical domain에서 이미지 기반 데이터를 활용해 의미 있는 정보를 추출하는 문제**에 집중하고 있습니다.
-
-GIST AI-MED Lab 학부연구생으로 활동하며,  
-**Pathology 이미지로부터 유전자 발현을 공간적으로 예측하는 task**를 수행하고 있습니다.   
---> 
 
 #### Research Interests
 
@@ -74,32 +66,6 @@ Computer Vision · Medical AI · Multimodal · Representation Learning · Founda
     </td>
   </tr>
 </table>
-
-<!--
-| Category     | Stack |
-|-------------|------|
-| AI / ML     | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=huggingface&logoColor=white) |
-| CV / Data   | OpenCV · Image Processing · Medical Data Processing |
-| Others      | Linux · Docker · Git/GitHub | 
--->
-
-<!--
-**AI / ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=huggingface&logoColor=white)
--->
-<!--
-**CV / Data**  
-OpenCV · Image Processing · Medical Data Processing 
--->
-<!-- OpenCV · Image Processing · Medical Data Processing (HDF5, AnnData, Parquet) -->
-<!--
-**Others**  
-Linux · Docker · Git/GitHub 
---> 
 
 <!-- 
 ---
