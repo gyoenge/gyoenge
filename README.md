@@ -67,26 +67,6 @@ Computer Vision · Medical AI · Multimodal · Representation Learning · Founda
   </tr>
 </table>
 
-<!-- 
----
-
-### Featured Projects
-
-#### 🧬 WSI → Gene Expression Prediction
-- 병리 이미지(WSI patch)로부터 유전자 발현 예측
-- image encoder + radiomics feature 결합
-- PCC 기반 성능 평가 및 LOOCV 실험 설계
-- PyRadiomics 기반 patch-level feature 처리 
-
-<!--
-#### 🔬 Radiomics Feature Extraction Pipeline
-- PyRadiomics 기반 patch-level feature 추출
-- z-score normalization 및 feature scaling 적용
-- multi-processing 기반 대용량 데이터 처리
---> 
-
-<!-- 
-#### 🧪 Cell Segmentation & Visualization
 - CellViT 기반 세포 segmentation
 - parquet polygon → mask 변환 및 시각화
 - patch / slide-level overlay visualization 구현
