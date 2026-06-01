@@ -67,9 +67,4 @@ Computer Vision · Medical AI · Multimodal · Representation Learning · Founda
   </tr>
 </table>
 
-- CellViT 기반 세포 segmentation
-- parquet polygon → mask 변환 및 시각화
-- patch / slide-level overlay visualization 구현
---> 
-
 
