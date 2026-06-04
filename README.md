@@ -4,7 +4,8 @@
 > GIST Undergraduate, Electrical Engineering and Computer Science (2022–Present)
 
 저는 AI 기술을 활용해 현실 세계의 다양한 문제를 해결하는 것에 관심을 가지고 있습니다.
-주요 관심 분야는 Vision-Language Model (VLM), Large Language Model (LLM), 그리고 Multimodal AI입니다. 
+
+주요 관심 분야는 Multimodal AI으로, Vision-Language Model (VLM)과 Large Language Model (LLM)을 공부하고 있습니다. 
 <!--다양한 연구 및 프로젝트를 통해 데이터 구축, 처리, 자동화 파이프라인 개발, 그리고 모델 학습 경험을 쌓아왔습니다.--> 
 
 새로운 도메인을 이해하고, 특정 문제에 적합한 데이터를 설계하며, 데이터 처리와 모델 학습 파이프라인을 구현하는 과정을 즐깁니다.
