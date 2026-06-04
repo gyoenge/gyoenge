@@ -20,6 +20,13 @@
 - Domain-specific ・ Real-world AI Application
 - Machine Learning ・ Deep Learning ・ Data Engineering
 
+#### Tech Stack
+
+| Category | Stack                                                                |
+| -------- | -------------------------------------------------------------------- |
+| AI / ML  | Python · PyTorch · Transformers · Hugging Face                       |
+| Data     | NumPy · Pandas · Medical Data Processing · Image Processing          |
+| Tools    | Linux · Docker · Git · GitHub                                        |
 
 <!--
 ### Huigyoeng Son
@@ -43,6 +50,7 @@ Computer Vision · Medical AI · Multimodal · Representation Learning · Founda
 
 --> 
 
+<!--
 #### Tech Stack
 
 <table style="width:100%; border-collapse:collapse; background-color:#ffffff;">
@@ -93,4 +101,4 @@ Computer Vision · Medical AI · Multimodal · Representation Learning · Founda
   </tr>
 </table>
 
-
+-->
