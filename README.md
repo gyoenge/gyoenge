@@ -1,7 +1,7 @@
 
-### HuiGyeong Son
+### Huigyeong Son
 
-> GIST Electrical Engineering and Computer Science Undergraduate (2022–Present)
+> GIST Undergraduate, Electrical Engineering and Computer Science (2022–Present)
 
 저는 AI 기술을 활용해 현실 세계의 다양한 문제를 해결하는 것에 관심을 가지고 있습니다.
 주요 관심 분야는 Vision-Language Model (VLM), Large Language Model (LLM), 그리고 Multimodal AI입니다. 
