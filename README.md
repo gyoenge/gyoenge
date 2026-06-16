@@ -5,7 +5,7 @@
 
 저는 **AI 기술을 활용해 현실 세계의 다양한 문제를 해결하는 것**에 관심을 가지고 있습니다.
 
-주요 관심 분야는 **Multimodal AI**으로, Vision-Language Model (VLM)과 Large Language Model (LLM)을 공부하고 있습니다. 
+주요 관심 분야는 **Multimodal 및 Agentic AI**으로, Vision-Language Model (VLM)과 Large Language Model (LLM)을 공부하고 있습니다. 
 
 현재 GIST AI-MED Lab에서 학부연구생으로 활동하며 의료 데이터를 활용한 AI 연구를 수행하고 있습니다. 
 
