@@ -5,11 +5,16 @@
 
 저는 **AI 기술을 활용해 현실 세계의 다양한 문제를 해결하는 것**에 관심을 가지고 있습니다.
 
-주요 관심 분야는 **Multimodal 및 Agentic AI**으로, Vision-Language Model (VLM)과 Large Language Model (LLM)을 공부하고 있습니다. 
+주요 관심 분야는 **Multimodal 및 Agentic AI**으로, VLM·LLM 모델의 동작과 응용을 공부하고 있습니다.
+<!-- 
+Vision-Language Model (VLM)과 Large Language Model (LLM)을 공부하고 있습니다. 
+--> 
 
-현재 GIST AI-MED Lab에서 학부연구생으로 활동하며 의료 데이터를 활용한 AI 연구를 수행하고 있습니다. 
+현재 GIST AI-MED Lab에서 학부연구생으로 활동하며 의료 데이터를 활용한 Multimodal AI 연구를 수행하고 있습니다. 
 
+<!--
 이미지 및 시퀀스 데이터를 다루며, 데이터 처리 및 구축, 모델 학습 파이프라인 설계 경험을 쌓고 있습니다.
+--> 
 
 개인·팀 프로젝트를 통해 서비스 문제에 맞는 Agentic AI를 어떻게 설계할지 탐구하고 있습니다.
 
@@ -17,11 +22,12 @@
 
 #### Interests
 
-- Multimodal AI
-- Representation Learning 
+- Multimodal AI ・ Representation Learning
+- Agentic AI ・ Multi-Agent Orchestration 
 - Domain-specific ・ Real-world AI Application
 - Machine Learning ・ Deep Learning ・ Data Engineering
 
+<!--
 #### Tech Stack
 
 | Category | Stack                                                                |
@@ -29,6 +35,7 @@
 | AI / ML  | Python · PyTorch · Transformers · Hugging Face                       |
 | Data     | NumPy · Pandas · Medical Data Processing · Image Processing          |
 | Tools    | Linux · Docker · Git · GitHub                                        |
+--> 
 
 <!--
 ### Huigyoeng Son
