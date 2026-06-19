@@ -7,7 +7,7 @@
 
 주요 관심 분야는 **Multimodal 및 Agentic AI**으로, VLM·LLM 모델의 동작과 응용을 공부하고 있습니다.
 
-- GIST AI-MED Lab의 학부연구생으로 활동하며 의료 데이터를 활용한 Multimodal AI 연구를 수행하고 있습니다. 
+- GIST AI-MED Lab에서 의료 데이터를 활용한 Multimodal AI 연구를 수행하고 있습니다. 
 - 프로젝트를 통해 서비스 문제에 적합한 Agentic AI 시스템 설계를 탐구하고 있습니다.
 
 #### Interests
