@@ -3,22 +3,12 @@
 
 > GIST Undergraduate, Electrical Engineering and Computer Science (2022–Present)
 
-저는 **AI 기술을 활용해 현실 세계의 다양한 문제를 해결하는 것**에 관심을 가지고 있습니다.
+저는 **AI 기술을 활용해 현실 세계의 문제를 이해하고 해결 전략을 설계하는 것**에 관심을 가지고 있습니다.
 
 주요 관심 분야는 **Multimodal 및 Agentic AI**으로, VLM·LLM 모델의 동작과 응용을 공부하고 있습니다.
-<!-- 
-Vision-Language Model (VLM)과 Large Language Model (LLM)을 공부하고 있습니다. 
---> 
 
 - GIST AI-MED Lab의 학부연구생으로 활동하며 의료 데이터를 활용한 Multimodal AI 연구를 수행하고 있습니다. 
-
-<!--
-이미지 및 시퀀스 데이터를 다루며, 데이터 처리 및 구축, 모델 학습 파이프라인 설계 경험을 쌓고 있습니다.
---> 
-
-- 프로젝트를 통해 서비스 문제에 적합한 Agentic AI 시스템 설계를 탐구하고 있습니다. 
-
-새로운 도메인에 대한 이해를 바탕으로 구체적인 세부 문제를 정의하고 해결 전략을 설계하는 과정에 흥미를 가지고 있습니다.
+- 프로젝트를 통해 서비스 문제에 적합한 Agentic AI 시스템 설계를 탐구하고 있습니다.
 
 #### Interests
 
