@@ -23,7 +23,7 @@
 <img width="3304" height="2308" alt="github_profile_3" src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0" />
 
 
-## MY SKILLS 
+## MY SKILL 
 
 <!--style=for-the-badge-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -57,6 +57,17 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+
+<br/>
+
+## MY STAT
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoenge&layout=compact&hide=jupyter%20notebook,html,css,liquid,SCSS,MATLAB)
+![](https://github-readme-stats.vercel.app/api?username=gyoenge&show_icons=true&theme=graywhite&hide_rank=true&hide_title=true)
+
+<br/>
+
 
 </div>
 
