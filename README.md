@@ -8,7 +8,7 @@
 
 <br/>
 
-## MY SKILL 
+## My Skills
 
 <!--style=for-the-badge-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 
 <br/>
 
-## MY STAT
+## My Stats
 
 <!--graywhite,buefy--> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoenge&layout=compact&hide=jupyter%20notebook,html,css,liquid,SCSS,MATLAB) 
