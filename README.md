@@ -46,7 +46,8 @@
 
 ## PROJECTS
 
-<img width="3304" height="2368" alt="github_projects" src="https://github.com/user-attachments/assets/ecef1ef9-ca28-4284-aefd-dc6fcb75343b" />
+<img width="3304" height="2368" alt="github_projects" src="https://github.com/user-attachments/assets/f21d87e7-55ef-475f-ac7e-4750abe3544c" />
+
 
 <br/>
 
