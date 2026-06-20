@@ -2,9 +2,6 @@
 
 <img width="3304" height="2308" alt="github_profile_3" src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0" />
 
-<img width="3304" height="2368" alt="github_projects" src="https://github.com/user-attachments/assets/ecef1ef9-ca28-4284-aefd-dc6fcb75343b" />
-
-
 <br/>
 
 ## My Skills
@@ -44,6 +41,12 @@
 <!--graywhite,buefy--> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoenge&layout=compact&hide=jupyter%20notebook,html,css,liquid,SCSS,MATLAB) 
 ![](https://github-readme-stats.vercel.app/api?username=gyoenge&show_icons=true&theme=buefy&hide_rank=true&hide_title=true)
+
+<br/>
+
+## My Projects 
+
+<img width="3304" height="2368" alt="github_projects" src="https://github.com/user-attachments/assets/ecef1ef9-ca28-4284-aefd-dc6fcb75343b" />
 
 <br/>
 
