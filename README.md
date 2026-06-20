@@ -59,7 +59,7 @@
 
 **SCPC Gallery VQA** — 스마트폰 갤러리에 저장된 일상 사진을 이해하는 멀티모달 AI 모델 개발 (리더보드 4위) <br/>
 **K-Tour Memory Studio** — 한국 전통 요소와 민화 스타일을 적용한 맞춤형 관광 기념품 제작 생성형 AI 서비스 (우수상) <br/>
-**TAVE MediVision 3DMedSAM-FDA** — SAM을 3D의료영상에 맞게 최적화한 프레임워크 개발 (동아리 심화 팀프로젝트 최우수상) <br/>
+**TAVE MediVision** — SAM을 3D의료영상에 맞게 최적화한 프레임워크 개발 (동아리 심화 팀프로젝트 최우수상) <br/>
 **AI4Good Hackathon** — 시각장애인의 PPT 강의자료 학습을 위한 객체탐지 기반 점자패드 프로토타입 개발 (대상) <br/>
 **Ping-pong Robot Competition** — 실시간 비전 인식과 로봇 제어를 통한 간단한 자율 탁구 로봇 개발 (우수상) <br/>
 **Net-Challenge Safety Detection** — 실시간 영상에서 위험한 상황을 감지하는 지능형 서비스 개발 (은상) <br/>
