@@ -11,7 +11,7 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FFD900?style=flat-square\&logo=huggingface\&logoColor=785400)
 ![Diffusers](https://img.shields.io/badge/Diffusers-FFD900?style=flat-square\&logo=huggingface\&logoColor=785400)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+<!--![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)--> 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
