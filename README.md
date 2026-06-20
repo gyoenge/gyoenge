@@ -35,8 +35,9 @@
 
 ## MY STAT
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoenge&layout=compact&hide=jupyter%20notebook,html,css,liquid,SCSS,MATLAB)
-![](https://github-readme-stats.vercel.app/api?username=gyoenge&show_icons=true&theme=graywhite&hide_rank=true&hide_title=true)
+<!--graywhite,buefy--> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoenge&layout=compact&hide=jupyter%20notebook,html,css,liquid,SCSS,MATLAB) 
+![](https://github-readme-stats.vercel.app/api?username=gyoenge&show_icons=true&theme=buefy&hide_rank=true&hide_title=true)
 
 <br/>
 
