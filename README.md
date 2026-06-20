@@ -4,7 +4,7 @@
 
 <br/>
 
-## SKILL
+## SKILLS
 
 <!--style=for-the-badge-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,7 +36,7 @@
 
 <br/>
 
-## STAT
+## STATS
 
 <!--graywhite,buefy--> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoenge&layout=compact&hide=jupyter%20notebook,html,css,liquid,SCSS,MATLAB) 
@@ -44,7 +44,7 @@
 
 <br/>
 
-## PROJECT
+## PROJECTS
 
 <img width="3304" height="2368" alt="github_projects" src="https://github.com/user-attachments/assets/ecef1ef9-ca28-4284-aefd-dc6fcb75343b" />
 
