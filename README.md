@@ -20,7 +20,8 @@
 
 <div align="center">
 
-<img width="3304" height="2212" alt="github_profile_3" src="https://github.com/user-attachments/assets/3c4308e9-9f3e-4069-916e-f237e8e75d55" />
+<img width="3304" height="2212" alt="github_profile_3" src="https://github.com/user-attachments/assets/3039a12c-c566-4d37-a597-1d1d5944ba08" />
+
 
 ## MY SKILLS 
 
