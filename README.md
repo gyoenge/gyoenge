@@ -2,6 +2,12 @@
 
 <img width="3304" height="2308" alt="github_profile_3" src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0" />
 
+<br/>
+
+## Featured Projects
+
+<br/>
+
 ## MY SKILL 
 
 <!--style=for-the-badge-->
