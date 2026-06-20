@@ -9,16 +9,17 @@
 <!--style=for-the-badge-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFB000?style=flat-square\&logo=huggingface\&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD900?style=flat-square\&logo=huggingface\&logoColor=785400)
-![Diffusers](https://img.shields.io/badge/Diffusers-FFD900?style=flat-square\&logo=huggingface\&logoColor=785400)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat-square)
+<!--
+![Diffusers](https://img.shields.io/badge/Diffusers-FFD900?style=flat-square\&logo=huggingface\&logoColor=785400)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-<!--![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)--> 
+--> 
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,6 +27,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<!-- 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+--> 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
