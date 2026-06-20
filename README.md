@@ -2,9 +2,8 @@
 
 <img width="3304" height="2308" alt="github_profile_3" src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0" />
 
-<br/>
+<img width="3304" height="2368" alt="github_projects" src="https://github.com/user-attachments/assets/ecef1ef9-ca28-4284-aefd-dc6fcb75343b" />
 
-## Featured Projects
 
 <br/>
 
