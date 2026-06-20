@@ -55,7 +55,7 @@
 **My Wallet Copilot** — 소비 내역을 분석하여 소비 패턴을 발견하고 맞춤형 절약 전략을 제안하는 AI Agent 서비스 <br/>
 **Medical Multimodality Research** — 암 조직의 딥러닝 기반 형태학적 특징과 수작업 정량 특징을 통합하는 멀티모달 AI 연구 <br/>
 
-### 🏆 Awarded 
+### 🏆 Selected ・ Awarded 
 
 **SCPC Gallery VQA** — 스마트폰 갤러리에 저장된 일상 사진을 이해하는 멀티모달 AI 모델 개발 (리더보드 4위) <br/>
 **K-Tour Memory Studio** — 한국 전통 요소와 민화 스타일을 적용한 맞춤형 관광 기념품 제작 생성형 AI 서비스 (우수상) <br/>
