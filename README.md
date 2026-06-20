@@ -1,27 +1,6 @@
-<!--
-### Huigyeong Son
-
-> GIST Undergraduate, Electrical Engineering and Computer Science (2022–Present)
-
-저는 **AI 기술을 활용해 현실 세계의 문제를 이해하고 해결 전략을 설계하는 것**에 관심을 가지고 있습니다.
-
-주요 관심 분야는 **Multimodal 및 Agentic AI**으로, VLM·LLM 모델의 동작과 응용을 공부하고 있습니다.
-
-- GIST AI-MED Lab에서 의료 데이터를 활용한 Multimodal AI 연구를 수행하고 있습니다. 
-- 프로젝트를 통해 서비스 문제에 적합한 Agentic AI 시스템 설계를 탐구하고 있습니다.
-
-#### Interests
-
-- Multimodal AI ・ Representation Learning
-- Agentic AI ・ Multi-Agent Orchestration 
-- Domain-specific ・ Real-world AI Application
-- Machine Learning ・ Deep Learning ・ Data Engineering
---> 
-
 <div align="center">
 
 <img width="3304" height="2308" alt="github_profile_3" src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0" />
-
 
 ## MY SKILL 
 
@@ -34,13 +13,6 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-<!-- 
-![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
-![VLM](https://img.shields.io/badge/VLM-8A2BE2?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-0F172A?style=flat-square)
---> 
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -59,7 +31,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
 <br/>
 
 ## MY STAT
@@ -69,10 +40,36 @@
 
 <br/>
 
+<!--
+## MY FEATURED PROJECTS 
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gyoenge&repo=my-wallet-copilot&theme=buefy)](https://github.com/gyoenge/my-wallet-copilot)
+--> 
 
 </div>
 
+
+<!-- LEGACY ################################################################################################################################ --> 
+
 <!--
+### Huigyeong Son
+
+> GIST Undergraduate, Electrical Engineering and Computer Science (2022–Present)
+
+저는 **AI 기술을 활용해 현실 세계의 문제를 이해하고 해결 전략을 설계하는 것**에 관심을 가지고 있습니다.
+
+주요 관심 분야는 **Multimodal 및 Agentic AI**으로, VLM·LLM 모델의 동작과 응용을 공부하고 있습니다.
+
+- GIST AI-MED Lab에서 의료 데이터를 활용한 Multimodal AI 연구를 수행하고 있습니다. 
+- 프로젝트를 통해 서비스 문제에 적합한 Agentic AI 시스템 설계를 탐구하고 있습니다.
+
+#### Interests
+
+- Multimodal AI ・ Representation Learning
+- Agentic AI ・ Multi-Agent Orchestration 
+- Domain-specific ・ Real-world AI Application
+- Machine Learning ・ Deep Learning ・ Data Engineering
+
 #### Tech Stack
 
 | Category | Stack                                                                |
