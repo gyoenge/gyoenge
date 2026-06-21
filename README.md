@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://gyoenge.github.io/" target="_blank">
-  <!-- src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0" --> 
+<a href="https://github.com/gyoenge" target="_blank">
+  <!--  --> 
   <img
-    src="https://github.com/gyoenge" 
+    src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0"
     alt="github_profile_3"
     width="1000"
   />
