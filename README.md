@@ -1,8 +1,12 @@
 <div align="center">
 
-![<img width="3304" height="2308" alt="github_profile_3" src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0" />](
-https://gyoenge.github.io/
-)
+<a href="https://gyoenge.github.io/" target="_blank">
+  <img
+    src="https://github.com/user-attachments/assets/9956b228-8ba5-46e2-ad1e-ca09876b14b0"
+    alt="github_profile_3"
+    width="1000"
+  />
+</a>
 
 <br/>
 
