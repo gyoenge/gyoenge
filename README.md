@@ -70,6 +70,7 @@
 **AI4Good Hackathon** — 시각장애인의 PPT 강의자료 학습을 위한 객체탐지 기반 점자패드 프로토타입 개발 (대상) <br/>
 **Ping-pong Robot Competition** — 실시간 비전 인식과 로봇 제어를 통한 간단한 자율 탁구 로봇 개발 (우수상) <br/>
 **Net-Challenge Safety Detection** — 실시간 영상에서 위험한 상황을 감지하는 지능형 서비스 개발 (은상) <br/>
+**AI+IoT Makerthon** — 세탁기 잔여 시간 탐지를 위한 7세그먼트 디스플레이 숫자 인식 <br/>
 
 <!--
 <img width="3304" height="2368" alt="github_projects" src="https://github.com/user-attachments/assets/f21d87e7-55ef-475f-ac7e-4750abe3544c" />
